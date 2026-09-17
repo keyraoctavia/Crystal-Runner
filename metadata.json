@@ -1,0 +1,6 @@
+{
+  "name": "Crystal Runner",
+  "description": "Game platformer 2D seru di mana Lumi mengumpulkan kristal energi, melompati duri, dan menaklukkan 5 level goa kristal bercahaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
